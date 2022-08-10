@@ -1,6 +1,6 @@
 <h1 text-align="center"><image src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width='140' height=auto/> Nasa API request from localhost</h1>
   <p style="text-align: right; justify-content:space-evenly;, line-height: 2.5em">
-  <image src="https://raw.githubusercontent.com/markkdamm/localhost-nasa-api/main/fha.jpg" width='400' height=auto align="right" style="display:block;margin-left:auto; margin-right:auto;float:right;"/>
+  <image src="https://raw.githubusercontent.com/markkdamm/localhost-nasa-api/main/src/fha.jpg" width='400' height=auto align="right" style="display:block;margin-left:auto; margin-right:auto;float:right;"/>
   <div width="40%" line-spacing="8">
   This app consists of two <b style="color:green;">nodejs</b> scripts. both setup a localhost in the router it can be accessed from any device typing the ip address followed by the port <b>[mars rovers: 8080], [pic-of-day:3000] </b> as long as its connected to the same wifi network as the computer its  deployed on. the api key is  hidden in a .env file, you must sign up in <b><a href="https://api.nasa.gov"> NASA open APIs</a></b> and then   save that key inside  a .env file as   <code>API_KEY</code> . I'm using raw node js, but you can use express or other framework to enhance it, if you enhance this contribute to this project, I will be updating this soon adding  new feautures such as adding color to the photographs using AI trained <br/> with images of deserts. Happy Coding! 👨‍💻
     </div>
