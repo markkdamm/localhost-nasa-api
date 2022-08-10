@@ -1,9 +1,11 @@
-#  Nasa API request from localhost
-  <p style="text-align: right; justify-content: sapce evenly;, line-height: 2.5">
-  This app consists of two <b style="color:green;">nodejs</b> scripts. both setup a localhost in the router it can be accessed<br/> from any device typing the ip address followed by the port (mars rovers: 8080), (pic-of-day:3000) <br/> as long as its connected to the same wifi network as the computer its  deployed on. the api  <br/>key is  hidden in a .env file, you must sign up in <b><a href="https://api.nasa.gov"> NASA open APIs</a></b> and then   save that key inside <br/> a .env file as  `API_KEY`. I'm using raw node js, but you can use express or other framework to <br/>enhance it, if you enhance this contribute to this project, I will be updating this soon adding <br/> new feautures such as adding color to the photographs using AI trained <br/> with images of deserts. Happy Coding! 👨‍💻
-<image src="https://raw.githubusercontent.com/markkdamm/localhost-nasa-api/main/fha.jpg" width='300' height=auto align="right" style="margin:0"/>
-</p>
-
+<h1> <image src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width='150' height=auto/> Nasa API request from localhost </h1>
+  <p style="text-align: right; justify-content:space-evenly;, line-height: 2.5">
+  <image src="https://raw.githubusercontent.com/markkdamm/localhost-nasa-api/main/fha.jpg" width='290' height=auto align="right" style="display:block;margin-left:auto; margin-right:auto;float:right;"/>
+  <div width="40%" >
+  This app consists of two <b style="color:green;">nodejs</b> scripts. both setup a localhost in the router it can be accessed from any device typing the ip address followed by the port (mars rovers: 8080), (pic-of-day:3000) as long as its connected to the same wifi network as the computer its  deployed on. the api key is  hidden in a .env file, you must sign up in <b><a href="https://api.nasa.gov"> NASA open APIs</a></b> and then   save that key inside  a .env file as  `API_KEY`. I'm using raw node js, but you can use express or other framework to enhance it, if you enhance this contribute to this project, I will be updating this soon adding  new feautures such as adding color to the photographs using AI trained <br/> with images of deserts. Happy Coding! 👨‍💻
+    </div>
+</p>  
+<br/>
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,js,nodejs,vscode)
 
